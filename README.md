@@ -1,5 +1,4 @@
 ### Hey there! 👋
-
 🚀 I'm David, a **full-stack web developer** based in Indonesia.
 
 💻 I mostly work on **backend stuff — PHP, MySQL/phpMyAdmin, ASP.NET**.
