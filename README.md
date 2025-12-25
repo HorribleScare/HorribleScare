@@ -22,4 +22,4 @@
 - ☕ A coffee or tea person
 - 🧠 Enthusiast of Applied Statistics & Informatics Logic
 - 🌸 Anime Lover : *The Demon Girl Next Door* is a favorite
-- 🌱 Enjoy exploring free alternatives, building simple websites, and experimenting with web monetization
+- 🌱 Enjoy exploring free alternatives and experimenting with web monetization
