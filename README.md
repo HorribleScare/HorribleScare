@@ -13,13 +13,13 @@
 ---
 
 ### Tools & Tech 🛠️
-- 💻 **Backend:** PHP, MySQL/phpMyAdmin, ASP.NET
-- 🎨 **Frontend:** HTML, CSS, JavaScript
+- 💻 **Backend :** PHP, MySQL/phpMyAdmin, ASP.NET
+- 🎨 **Frontend :** HTML, CSS, JavaScript
 
 ---
 
 ### A Bit About Me 🫠
 - ☕ A coffee or tea person
 - 🧠 Enthusiast of Applied Statistics & Informatics Logic
-- 🌸 Anime Lover: *The Demon Girl Next Door* is a favorite
+- 🌸 Anime Lover : *The Demon Girl Next Door* is a favorite
 - 🌱 Enjoy exploring free alternatives, building simple websites, and experimenting with web monetization
