@@ -1,25 +1,25 @@
 ### Hey there! 👋
 
-I'm David, a **full-stack web developer** based in Indonesia. 🚀
+🚀 I'm David, a **full-stack web developer** based in Indonesia.
 
-I mostly work on 💻 **backend stuff — PHP, MySQL/phpMyAdmin, ASP.NET** 💻, and occasionally touch 🎨 **frontend stuff — HTML, CSS, JavaScript**. 🎨
+💻 I mostly work on **backend stuff — PHP, MySQL/phpMyAdmin, ASP.NET**.
 
-If an idea pops into my head, chances are I’ll **build it, test it, and ship it**. ✨
+🎨 I occasionally touch **frontend stuff — HTML, CSS, JavaScript**.
 
-This is a fresh profile where I **build projects from scratch**, **experiment with new tech**, and **share my learning journey** — feel free to **explore** or **reach out**! 📫
+✨ If an idea pops into my head, chances are I’ll **build it, test it, and ship it**.
 
----
-
-### Tools & Tech
-- I enjoy building things from scratch  
-- I like learning through hands-on projects  
-- Anime is one of my favorite ways to relax  
-- I enjoy going to the gym  
+📫 This is a fresh profile where I **build projects from scratch**, **experiment with new tech**, and **share my learning journey** — feel free to **explore** or **reach out**!
 
 ---
 
-### A Bit About Me
-- Web development  
-- Learning new technologies  
-- Anime  
-- Gym & self-improvement  
+### Tools & Tech 🛠️
+- 💻 **Backend:** PHP, MySQL/phpMyAdmin, ASP.NET
+- 🎨 **Frontend:** HTML, CSS, JavaScript
+
+---
+
+### A Bit About Me 🫠
+- ☕ A coffee or tea person
+- 🧠 Enthusiast of Applied Statistics & Informatics Logic
+- 🌸 Anime Lover: *The Demon Girl Next Door* is a favorite
+- 🌱 Enjoy exploring free alternatives, building simple websites, and experimenting with web monetization
